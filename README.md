@@ -18,13 +18,13 @@ Clone the code to your local directory
 
 ## Generate Report
 1. Add below given keys and values in lambda.py
-  wo_id = ''
-  wo_num = ''
-  wo_start_date = ''
-  user_id = ''
-  pdf_create = get_report_data(wo_id=wo_id,wo_num=wo_num, wo_start_date=wo_start_date)
+ - wo_id = ''
+ - wo_num = ''
+ - wo_start_date = ''
+ - user_id = ''
+ - pdf_create = get_report_data(wo_id=wo_id,wo_num=wo_num, wo_start_date=wo_start_date)
 2. Run
-   (Windows) python lambda.py
-   (Linux) python3 lambda.py
+ - (Windows) python lambda.py
+ - (Linux) python3 lambda.py
 
 
