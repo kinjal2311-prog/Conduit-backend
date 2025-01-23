@@ -22,7 +22,7 @@ Clone the code to your local directory
  - wo_num = ''
  - wo_start_date = ''
  - user_id = ''
- - pdf_create = get_report_data(wo_id=wo_id,wo_num=wo_num, wo_start_date=wo_start_date)
+ - pdf_create = get_report_data(wo_id=wo_id,wo_num=wo_num, wo_start_date=wo_start_date,user_id=user_id)
 2. Run
  - (Windows) python lambda.py
  - (Linux) python3 lambda.py
